@@ -1,3 +1,3 @@
 ## Preview
 
-<img src="/Fastfetch/Screenshot.png">
+![preview](https://github.com/Kirumi-A/fastfetch-config/blob/main/Screenshot.png?raw=true)
